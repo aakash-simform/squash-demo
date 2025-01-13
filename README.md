@@ -1,2 +1,0 @@
-# squash-demo
-squash-demo
